@@ -2,9 +2,6 @@
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-- My main goal right now is to become a Front End Dev, so I'm currently working on and studying HTML, CSS and Javascript. But I'm also studying Java and C# at Faculdade Descomplica.
-- 💬 Feel free to talk to me about Animes, Movies 🎥, Games 🎮, and Motherhood 👶. I'm all ears.
-
 Technologies I use:
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
