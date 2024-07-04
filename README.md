@@ -16,8 +16,6 @@ I hope you find all the information you need. If not, don't hesitate to send me 
 
 - 🤝 I’m looking to collaborate on projects to make the web more accessible
 
-- 🙋‍♀️ Talk to me about Front-end Development, Design and Accessibility. Also about dogs, tv shows, food and wine - hehe 😉
-
 
 
 <h2 align='center'> What I have used most often nowadays </h2>
