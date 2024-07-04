@@ -5,7 +5,7 @@ Thank you for taking the time to view my GitHub Profile :)
 
 I hope you find all the information you need. If not, don't hesitate to send me a message on the channels below 👇
 
-<h2 align="center">Where You can find me:</h2>
+<h2 align="center">Where you can find me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/bianca-zabroski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bianca-zabroski" height="30" width="40" /></a>
 
