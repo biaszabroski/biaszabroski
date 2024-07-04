@@ -1,7 +1,7 @@
 <h1 align='center'> Hello, I'm Bianca Zabroski <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> 
 Front-end dev with focus on web development and Design UI/UX</h1>
 
-Thank You for taking the time to view my GitHub Profile :) 
+Thank you for taking the time to view my GitHub Profile :) 
 
 I hope you find all the information you need. If not, don't hesitate to send me a message on the channels below 👇
 
