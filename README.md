@@ -12,10 +12,6 @@ I hope you find all the information you need. If not, don't hesitate to send me 
 
 <h2 align="center">A little about myself</h2>
 
-- 👩‍💻 I currently work as a front-end developer in a digital marketing squad in the financial sector. And I love it! <3
-
-- 🤝 I’m looking to collaborate on projects to make the web more accessible
-
 
 
 <h2 align='center'> What I have used most often nowadays </h2>
