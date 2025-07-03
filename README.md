@@ -10,10 +10,6 @@ I hope you find all the information you need. If not, don't hesitate to send me 
 <a href="https://linkedin.com/in/bianca-zabroski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bianca-zabroski" height="30" width="40" /></a>
 
 
-<h2 align="center">A little about myself</h2>
-
-
-
 <h2 align='center'> What I have used most often nowadays </h2>
 <p align = 'center'>
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
